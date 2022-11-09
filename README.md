@@ -26,11 +26,11 @@
 
 #####
 ### Tecnologias aplicadas no projeto:
-     * Postgres
-     * Swagger
-     * Java
-     * SpringBoot
-     * REST
-     * Postman
-     * Git/GitHub
-     * Heroku
+    * Postgres
+    * Swagger
+    * Java
+    * SpringBoot
+    * REST
+    * Postman
+    * Git/GitHub
+    * Heroku
