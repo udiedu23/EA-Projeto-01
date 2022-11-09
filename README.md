@@ -22,3 +22,15 @@
 ###### API REST com Spring Boot - parte 6
  * Na sexta parte iremos fazer o deploy da nossa API REST no Heroku.<br>
    URL do curso: https://www.youtube.com/watch?v=FLSdkP33Lwo&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ&index=6
+
+
+#####
+### Tecnologias aplicadas no projeto:
+     * Postgres
+     * Swagger
+     * Java
+     * SpringBoot
+     * REST
+     * Postman
+     * Git/GitHub
+     * Heroku
