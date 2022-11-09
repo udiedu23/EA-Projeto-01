@@ -6,3 +6,7 @@
 ###### API REST com Spring Boot - parte 2
   * Na segunda parte iremos criar um Model utilizando JPA, configurar o Banco de Dados Postgres no application.properties e criar um Repository. <br>
     URL do curso: https://www.youtube.com/watch?v=LmqVHTOqcxs&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ&index=2
+
+###### API REST com Spring Boot - parte 3
+  * Na Terceira parte iremos listar os produtos via json no postman implementando o metodo GET E POST<br>
+    URL do curso: https://www.youtube.com/watch?v=e0ItyfvbhMw&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ&index=3
