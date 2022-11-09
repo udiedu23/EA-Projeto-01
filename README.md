@@ -1,3 +1,3 @@
 # apisrest <h1>
 1. API REST com Spring Boot - parte 1
-  * Na primeira parte criamos o importe do spring boot para o eclipse
+  <p> * Na primeira parte criamos o importe do spring boot para o eclipse
