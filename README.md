@@ -26,7 +26,7 @@
 
 #####
 ### Tecnologias aplicadas no projeto:
-    *  Postgres
+* Postgres
     * Swagger
     * Java
     * SpringBoot
